@@ -1,0 +1,44 @@
+h1{
+    float: center;
+    text-align: left;
+    font-family: 'Calibri';
+    font-size: extra xx-large;
+    font-weight: 400;
+}
+
+  body{
+    background-color: bisque;
+  }
+
+  p{
+    text-align: left;
+    font-family: 'Calibri';
+    font-size: small;
+  }
+
+.container {container:relative;
+    height: 300px;
+    width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    background-color: white;}
+  
+.p1 { text-align: center;
+}
+
+.p2 {text-decoration: underline;
+
+}
+
+p3 {
+    display: block;
+    text-align: center;
+    font-size: large;
+    font-family: 'Calibri';
+}
+
+
+
+  
